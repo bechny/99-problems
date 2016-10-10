@@ -13,4 +13,5 @@ object P04 {
     lengthAccumulator(list, 0)
   }
 
+  def lengthFold[T](list: List[T]): Int = list.foldLeft(0) ((length, _) => length + 1)
 }

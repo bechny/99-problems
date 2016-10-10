@@ -30,4 +30,16 @@ class P04Test extends FunSpec with Matchers {
 
   }
 
+  describe("fold implementation") {
+
+    it("should be zero when list is empty") {
+      P04.lengthFold(List.empty) should be(0)
+    }
+
+    it("should be 5 when list has five elements") {
+      P04.lengthFold(numbers) should be(5)
+    }
+
+  }
+
 }
