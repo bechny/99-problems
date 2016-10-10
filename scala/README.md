@@ -8,6 +8,7 @@ From the original source:
 
 > The problems have different levels of difficulty. Those marked with a single asterisk (\*) are easy. If you have successfully solved the preceding problems you should be able to solve them within a few (say 15) minutes. Problems marked with two asterisks (\*\*) are of intermediate difficulty. If you are a skilled Scala programmer it shouldn't take you more than 30-90 minutes to solve them. Problems marked with three asterisks (\*\*\*) are more difficult. You may need more time (i.e. a few hours or more) to find a good solution.
 
+Another source of 99 Problems in Scala is [Phil Gold's page](http://aperiodic.net/phil/scala/s-99/).
 
 ## Table of Contents
 
